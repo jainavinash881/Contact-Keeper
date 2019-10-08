@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://avinash:avinash@contactkeeper-1v3uv.mongodb.net/admin?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://avinash:avinash@contactkeeper-1v3uv.mongodb.net/admin?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
 }
